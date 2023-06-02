@@ -5,6 +5,10 @@ body {
   color: #333333;
 }
 
+.highlight {
+      background-color: yellow;
+    }
+
 a {
   text-decoration: none;
   color: #333333;
